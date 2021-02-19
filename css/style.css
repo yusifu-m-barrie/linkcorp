@@ -3205,13 +3205,13 @@ span.skill {
 	-------------------------------------------------------------------*/
 
 .testmonial_section {
-	background-image: url('../images/it_service/test_bg.png');
+	background-image: url('../images/it_service/group.jpg');
 	background-size: cover;
 	padding-bottom: 185px;
 }
 
 .cleaning .testmonial_section {
-	background-image: url('../images/cleaning_service/test_bg.png');
+	background-image: url('../images/cleaning_service/group.jpg');
 	background-size: cover;
 	padding-bottom: 185px;
 }
@@ -3478,7 +3478,7 @@ footer ul.social_icons {
 
 .gross_layout::after {
 	position: absolute;
-	background: url(../images/it_service/dark_bg_img.png);
+	background: url(../images/it_service/network.jpg);
 	width: 35%;
 	height: 100%;
 	right: 0;
@@ -3503,7 +3503,7 @@ footer ul.social_icons {
 
 .gross_layout.right_gross_layout::after {
 	position: absolute;
-	background: url(../images/it_service/dark_bg_img2.png);
+	background: url(../images/it_service/dark_bg_img.png);
 	width: 35%;
 	height: 100%;
 	left: 0;
